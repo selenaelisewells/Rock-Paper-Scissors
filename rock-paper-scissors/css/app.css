@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    padding: 100px 50px;
+}
+
+#game_area {
+    max-height: 60vh;
+    overflow-y: auto;
+}
